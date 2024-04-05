@@ -6,7 +6,7 @@
 
 #include <stdio.h>
 
-#define IdleCore 8
+#define IdleCore -1
 
 class Thread{
 
